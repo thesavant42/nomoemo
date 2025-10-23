@@ -1,6 +1,6 @@
 ﻿# nomoemo
 
-Python Script to seek out and eliminate emojis in my code
+Python Script to seek out and eliminate emojis in code
 
 ## No Mo' Emoji!
 
@@ -318,3 +318,4 @@ print(clean_text)  # "Hello  World "
 custom_text = emoji.replace_emoji(text, replace='*')
 print(custom_text)  # "Hello * World *"
 ```        
+
